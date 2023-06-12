@@ -1,0 +1,2 @@
+[staging_servers]
+kaliClone   ansible_host=10.211.55.5 ansible_user=davolkoff ansible_ssh_private_key_file=/home/dav35/.ssh/id_rsa
